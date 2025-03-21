@@ -34,8 +34,7 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/587eb7bb-b65d-418d-8731-7d7e8bfea851)
-
+![image](https://github.com/user-attachments/assets/f6b27c54-36ac-4630-9d4e-6935956ab781)
 
 ## Result:
   The program is executed successfully
